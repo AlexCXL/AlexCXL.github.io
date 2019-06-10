@@ -2,7 +2,7 @@
 title: XL Blog
 SEOTitle: 寻找蔚蓝的博客 | blue Blog
 header-img: img/post-bg-hacker.jpg
-email: qiubaiying@gmail.com
+email: xiaolei_ch@163.com
 description: "Every failure is leading towards success."
 keyword: "XL, XL Blog, 磊的博客, 蓝色,寻找"
 url: "http://alexcxl.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/alexcxl/alexcxl.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_icon.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
